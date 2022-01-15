@@ -149,4 +149,12 @@
 <p align = "center">
    <a href = "https://arvindkumar-prog.github.io/personal-website/">
       <img src = "https://github.com/arvindkumar-prog/arvindkumar-prog/blob/main/geek.gif" width="500px">
-   </a>
+ </a></p>
+                                                                                                       
+<p align = "center">
+                   <code>To Know More About Me Just Click This Image</code>
+          
+                   
+                     
+                     
+                     
