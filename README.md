@@ -61,7 +61,7 @@
   
 </p>
 
-<h3 align="center">Frontend</h3>
+<h3 align="center"><code>Frontend</code></h3>
 <p align="center">
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
