@@ -33,7 +33,7 @@
    <img src = "https://github.com/arvindkumar-prog/arvindkumar-prog/blob/main/logo.gif">
 </p>
           
-<h3 align="center">Languages</h3>
+<h3 align="center"><code>Languages</code></h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
@@ -79,7 +79,7 @@
   
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center"><code>Backend</code></h3>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
@@ -91,7 +91,7 @@
  
 </p>
 
-<h3 align="center">Database</h3>
+<h3 align="center"><code>Database</code></h3>
 <p align="center">
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
@@ -103,7 +103,7 @@
 
 
 
-<h3 align="center">Version Control</h3>
+<h3 align="center"><code>Version Control</code></h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -115,7 +115,7 @@
 
 </p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
+<h3 align="center"><code>Preferred IDEs  & Tools</code></h3>
 <p align="center"> 
   <a href="https://eclipse.org" target="_blank">
     <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
