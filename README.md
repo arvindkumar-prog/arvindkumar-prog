@@ -152,7 +152,7 @@
  </a></p>
                                                                                                        
 <p align = "center">
-                   <code>To Know More About Me Just Click This Image</code>
+                   <code>Since you don't want to leave my profile just Click This Image</code>
           
                    
                      
