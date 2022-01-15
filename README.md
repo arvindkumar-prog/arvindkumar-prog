@@ -25,5 +25,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arvindkumar-prog" alt="arvindkumar-prog" />
+  <img src="https://komarev.com/ghpvc/?username=arvindkumar-prog&color=blueviolet" alt="arvindkumar-prog" />
 </p>
