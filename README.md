@@ -4,11 +4,6 @@
    <img src = "https://github.com/arvindkumar-prog/arvindkumar-prog/blob/main/hello.gif" >
  </p> 
 
-<p align="center">
-  <a href="https://github.com/shaurya-src">
-    <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Hello%20world.gif" width="450">
-  </a>
-</p>
 
 <p align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -21,4 +16,10 @@
   <a href="https://en.wikipedia.org/wiki/Computer_science">
     <img src="https://img.shields.io/badge/My%20jam-Computer%20Science-critical?style=flat-square&logo=electron&logoColor=white">
   </a>
+</p>
+
+<p align="center">
+  <code>
+  I'm Arvind kumar, an adept learner exploring the depths of technology. I am a 3rd year undergrad at Amrita vishwa Vidhyapeedam, majoring in Computer Science and Engineering (<strong>CSE</strong>). I have a great passion for <strong>Developing Dynamic Websites</strong> along with <strong>modern Apps</strong>.
+  </code>
 </p>
