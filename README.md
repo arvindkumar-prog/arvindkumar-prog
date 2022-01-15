@@ -23,3 +23,7 @@
      I'm <strong>Arvind kumar</strong>, an adept learner exploring the depths of technology. I am a 3rd year undergrad at Amrita vishwa Vidhyapeedam, majoring in Computer Science and Engineering (<strong>CSE</strong>). I have a great passion for <strong>Developing Dynamic Websites</strong> along with <strong>Modern Apps</strong>.
   </code>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arvindkumar-prog" alt="arvindkumar-prog" />
+</p>
