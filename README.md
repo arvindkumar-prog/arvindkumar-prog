@@ -140,5 +140,5 @@
 </p>
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arvindkumar-prog)]
+<div a align = "center">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arvindkumar-prog)
