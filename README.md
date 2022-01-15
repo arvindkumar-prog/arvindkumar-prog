@@ -1,7 +1,7 @@
 <a href="https://twitter.com/arvindkumarprog?t=Qmswzk1fA7bgR2Umxs2i4w&s=08" target="_blank" rel="nofollow"><img align="right" alt="arvind's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/shaurya-src/" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/___arvind__kumar___/" target="_blank" rel="nofollow"><img align="right" alt="rvinds's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <p align = "center">
-   <img src = "https://github.com/arvindkumar-prog/arvindkumar-prog/blob/main/hello.gif" width="600px" >
+   <img src = "https://github.com/arvindkumar-prog/arvindkumar-prog/blob/main/hello.gif" width="500px" >
  </p> 
 
 
