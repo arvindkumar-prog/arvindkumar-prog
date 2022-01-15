@@ -148,5 +148,5 @@
 
 <p align = "center">
    <a href = "https://arvindkumar-prog.github.io/personal-website/">
-      <img src = "">
+      <img src = "https://github.com/arvindkumar-prog/arvindkumar-prog/blob/main/geek.gif">
    </a>
